@@ -244,8 +244,8 @@
 }
 
 .sleeping_img {
-    left: -1%;
-    top: -1%;
+    left:4%;
+    top:4%;
 }
 
 .purple-bear {
@@ -680,7 +680,7 @@
 
     .sleeping_img-sm {
         left: 12%;
-        top: -7%;
+        top:1%;
     }
 
     .mw_300-md {
