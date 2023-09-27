@@ -106,10 +106,6 @@
     max-width: 1003px;
 }
 
-.min_vh_110 {
-    min-height: 110vh;
-}
-
 .footerline::after {
     content: "";
     position: absolute;
@@ -264,7 +260,7 @@
 }
 
 .grass_img {
-    bottom: -3%;
+    bottom: -5%;
 }
 
 .cloud_img {
@@ -306,8 +302,8 @@
     padding-bottom: 100px;
 }
 
-.mw_170 {
-    max-width: 170px;
+.mw_135 {
+    max-width: 135px;
 }
 
 .mw_250 {
@@ -468,6 +464,9 @@
 .pointer_event_none {
     pointer-events: none;
 }
+.min_vh_85{
+    min-height: 85vh;
+}
 
 @keyframes swing {
     0% {
@@ -610,6 +609,9 @@
     .mw_lg-338 {
         max-width: 338px;
     }
+    .min_vh_60{
+        min-height: 60vh !important;
+    }
 }
 
 @media (min-width:1200px) {
@@ -621,6 +623,9 @@
     .sleeping_img-xl {
         left: 8%;
         top: 15%;
+    }
+    .min_vh_100{
+        min-height: 100vh !important;
     }
 }
 
@@ -673,6 +678,9 @@
         left: 11%;
         top: -8%;
     }
+    .min_vh_50{
+        min-height: 50vh !important;
+    }
 }
 
 @media (min-width:576px) and (max-width:1200px) {
@@ -687,7 +695,7 @@
 
 @media (min-width:576px) {
     .grass_img-sm {
-        bottom: -5%;
+        bottom: -7%;
     }
 
     .right_stone_sm {
@@ -719,6 +727,9 @@
     .mw_300-md {
         max-width: 300px;
     }
+    .min_vh_60{
+        min-height:60vh !important;
+    }
 }
 
 @media (min-width:450px) and (max-width:576px) {
@@ -736,8 +747,8 @@
     }
 
     .sleeping_img_sm {
-        left: 3%;
-        top: 9%;
+        left: 4%;
+        top: -8%;
     }
 }
 
