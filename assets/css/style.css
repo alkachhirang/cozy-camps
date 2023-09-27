@@ -185,7 +185,7 @@
     z-index: 2;
 }
 .join_button:hover {
-    box-shadow: 2px 4px 0px white !important;
+    box-shadow: 2px 4px 0px rgba(255, 255, 255, 0.61) !important;
 }
 
 .max-width_239 {
