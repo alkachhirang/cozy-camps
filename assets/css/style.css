@@ -240,8 +240,8 @@
 }
 
 .sleeping_img {
-    left: -11%;
-    top: -10%;
+    left: -1%;
+    top: -1%;
 }
 
 .purple-bear {
@@ -679,8 +679,8 @@
     }
 
     .sleeping_img_sm {
-        left: -2%;
-        top: -1%;
+        left:3%;
+        top:9%;
     }
 }
 @media (max-width:576px) {
