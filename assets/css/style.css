@@ -184,6 +184,9 @@
     translate: 300ms linear;
     z-index: 2;
 }
+.join_button:hover {
+    box-shadow: 2px 4px 0px white !important;
+}
 
 .max-width_239 {
     max-width: 239px;
