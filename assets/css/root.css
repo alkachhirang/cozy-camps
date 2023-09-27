@@ -23,9 +23,8 @@
 --grey:#565656;
 --light_blk:#354a55;
 
-
-
 }
+
 .light_blk{
     color: var(--light_blk);
 }
@@ -60,58 +59,45 @@
 .ff_balsamiq {
     font-family: 'Balsamiq Sans', cursive;
 }
-
 .ff_cherry-bomb-one {
     font-family: 'Cherry Bomb One', cursive;
 }
-
 .ff_cherry-creame-soda {
     font-family: 'Cherry Cream Soda', cursive;
 }
 .ff-chewy {
     font-family: "chewy", cursive;
 }
-
 .fw_400 {
     font-weight: 400;
 }
-
 .fw_700 {
     font-weight: 700;
 }
-
 .fs_14 {
     font-size: var(--fs-sm);
 }
-
 .fs_16 {
     font-size: var(--fs-2sm);
 }
-
 .fs_18 {
     font-size: var(--fs-md);
 }
-
 .fs_20 {
     font-size: var(--fs-2md);
 }
-
 .fs_22 {
     font-size: var(--fs-lg);
 }
-
 .fs_28 {
     font-size: var(--fs-2lg);
 }
-
 .fs_60 {
     font-size: var(--fs-xl);
 }
-
 .fs_69 {
     font-size: var(--fs-2xl);
 }
-
 .fs_80 {
     font-size: var(--fs-xxl);
 }
@@ -155,7 +141,7 @@
             --fs-2sm: 16px;
             --fs-md: 14px;
             --fs-2md: 20px;
-            --fs-lg: 22px;
+            --fs-lg: 16px;
             --fs-2lg: 28px;
             --fs-xl: 50px;
             --fs-2xl: 69.76px;
