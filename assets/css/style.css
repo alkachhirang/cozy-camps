@@ -12,7 +12,15 @@
     max-width: 845px !important;
 
 }
-
+.custom_container{
+    max-width: 1140px !important;
+}
+.mw_446{
+  max-width: 446px;
+}
+.mh_497{
+    max-height: 497px;
+}
 .mt_1 {
     margin-top: -1px;
 }
@@ -612,6 +620,9 @@
     .min_vh_60{
         min-height: 60vh !important;
     }
+    .pt-lg-100{
+      padding-top: 100px;
+    }
 }
 
 @media (min-width:1200px) {
@@ -688,8 +699,6 @@
         background: #fff;
         border-radius: 20px;
         padding: 16px 16px;
-        margin-left: 24px;
-        margin-right: 24px;
     }
 }
 
@@ -761,8 +770,6 @@
         background: #fff;
         border-radius: 20px;
         padding: 16px 16px;
-        margin-left: 24px;
-        margin-right: 24px;
     }
 
     .bottom_8 {
