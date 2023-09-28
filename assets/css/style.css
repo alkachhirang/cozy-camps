@@ -12,9 +12,11 @@
     max-width: 845px !important;
 
 }
-.custom_container{
+
+.custom_container {
     max-width: 1140px !important;
 }
+
 .mt_1 {
     margin-top: -1px;
 }
@@ -131,27 +133,29 @@
 .nav-line:hover::after {
     width: 100%;
 }
+
 .footer-line::after {
     content: "";
     position: absolute;
     width: 0;
     left: 50%;
     height: 2px;
-    background-color:#0d0d0d;
+    background-color: #0d0d0d;
     transition: all 300ms linear;
     bottom: 0;
-    border-radius:10px;
+    border-radius: 10px;
 }
 
 .footer-line:hover::after {
     width: 100%;
-    left:0;
-    }
+    left: 0;
+}
 
 
 .navlink:hover {
     transform: translateY(-5px) !important;
 }
+
 ::-webkit-scrollbar {
     width: 20px;
 }
@@ -162,13 +166,14 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: linear-gradient(to bottom right, #b0e3fe,#4cbaff);
+    background: linear-gradient(to bottom right, #b0e3fe, #4cbaff);
     border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(to bottom right, #b0e3fe, #4cbaff);
 }
+
 .z-index_2 {
     z-index: 2 !important;
 }
@@ -211,15 +216,14 @@
     border: 2px solid transparent;
     border-radius: 44px;
     background: #4CBAFF;
-    cursor: pointer !important;
-    translate: 300ms linear;
+    transition: 0.3s linear !important;
 }
+
 .join_button:hover {
-   border: 2px solid #4CBAFF;
-padding: 16px 40px;
-   background-color: transparent;
-   color: #4CBAFF !important;
-    cursor: pointer !important;
+    border: 2px solid #4CBAFF;
+    padding: 16px 40px;
+    background-color: transparent;
+    color: #4CBAFF !important;
 }
 
 .max-width_239 {
@@ -278,8 +282,8 @@ padding: 16px 40px;
 }
 
 .sleeping_img {
-    left:4%;
-    top:4%;
+    left: 4%;
+    top: 4%;
 }
 
 .purple-bear {
@@ -465,17 +469,20 @@ padding: 16px 40px;
 .duration_300 {
     transition: 300ms linear;
 }
-.h_700{
+
+.h_700 {
     height: 700px !important;
 }
 
 .pointer_event_none {
     pointer-events: none;
 }
-.min_vh_85{
+
+.min_vh_85 {
     min-height: 85vh;
 }
-.bottom_25{
+
+.bottom_25 {
     bottom: -25%;
 }
 
@@ -554,9 +561,10 @@ padding: 16px 40px;
         bottom: -6.5%;
         width: 25%;
     }
-        .max_width_150 {
-            max-width: 150px;
-        }
+
+    .max_width_150 {
+        max-width: 150px;
+    }
 
 }
 
@@ -566,7 +574,7 @@ padding: 16px 40px;
     }
 
     .max-width_603 {
-        max-width:603px;
+        max-width: 603px;
     }
 
     .grass_img-lg {
@@ -577,53 +585,68 @@ padding: 16px 40px;
         bottom: 3%;
         left: -11px;
     }
+
     .mw_250_lg {
         max-width: 250px !important;
     }
+
     .mw_300_lg {
         max-width: 310px;
     }
+
     .about_us_text_lg {
         top: 253px;
         left: 27%;
     }
+
     .sleeping_img-lg {
         left: 21%;
         top: -4%;
     }
+
     .max_width_547 {
         max-width: 547px;
     }
+
     .pt-150-lg {
         padding-top: 150px;
     }
+
     .height_568_lg {
         height: 568px !important;
     }
+
     .mw-655 {
         max-width: 655px;
     }
+
     .pt-100-lg {
         padding-top: 100px;
     }
+
     .min_vh_100_lg {
         min-height: 100vh !important;
     }
+
     .mw_lg-338 {
         max-width: 338px;
     }
-    .min_vh_60{
+
+    .min_vh_60 {
         min-height: 60vh !important;
     }
-    .pt-lg-100{
-      padding-top: 100px;
+
+    .pt-lg-100 {
+        padding-top: 100px;
     }
-        .mw_446 {
-            max-width: 446px;
-        }
-        .h_497 {
-            height: 497px !important;
-        }
+
+    .mw_446 {
+        max-width: 446px;
+    }
+
+    .h_497 {
+        height: 497px !important;
+    }
 }
 
 @media (min-width:1200px) {
@@ -636,7 +659,8 @@ padding: 16px 40px;
         left: 8%;
         top: 15%;
     }
-    .min_vh_100{
+
+    .min_vh_100 {
         min-height: 100vh !important;
     }
 }
@@ -690,7 +714,8 @@ padding: 16px 40px;
         left: 11%;
         top: -8%;
     }
-    .min_vh_50{
+
+    .min_vh_50 {
         min-height: 50vh !important;
     }
 }
@@ -732,14 +757,15 @@ padding: 16px 40px;
 
     .sleeping_img-sm {
         left: 12%;
-        top:1%;
+        top: 1%;
     }
 
     .mw_300-md {
         max-width: 300px;
     }
-    .min_vh_60{
-        min-height:60vh !important;
+
+    .min_vh_60 {
+        min-height: 60vh !important;
     }
 }
 
