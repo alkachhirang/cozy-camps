@@ -462,6 +462,9 @@
 .duration_300 {
     transition: 300ms linear;
 }
+.h_700{
+    height: 700px !important;
+}
 
 .pointer_event_none {
     pointer-events: none;
