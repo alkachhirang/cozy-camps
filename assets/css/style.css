@@ -15,12 +15,6 @@
 .custom_container{
     max-width: 1140px !important;
 }
-.mw_446{
-  max-width: 446px;
-}
-.mh_497{
-    max-height: 497px;
-}
 .mt_1 {
     margin-top: -1px;
 }
@@ -571,49 +565,38 @@
         bottom: 3%;
         left: -11px;
     }
-
     .mw_250_lg {
         max-width: 250px !important;
     }
-
     .mw_300_lg {
         max-width: 310px;
     }
-
     .about_us_text_lg {
         top: 253px;
         left: 27%;
     }
-
     .sleeping_img-lg {
         left: 21%;
         top: -4%;
     }
-
     .max_width_547 {
         max-width: 547px;
     }
-
     .pt-150-lg {
         padding-top: 150px;
     }
-
     .height_568_lg {
         height: 568px !important;
     }
-
     .mw-655 {
         max-width: 655px;
     }
-
     .pt-100-lg {
         padding-top: 100px;
     }
-
     .min_vh_100_lg {
         min-height: 100vh !important;
     }
-
     .mw_lg-338 {
         max-width: 338px;
     }
@@ -623,6 +606,12 @@
     .pt-lg-100{
       padding-top: 100px;
     }
+        .mw_446 {
+            max-width: 446px;
+        }
+        .h_497 {
+            height: 497px !important;
+        }
 }
 
 @media (min-width:1200px) {
@@ -646,7 +635,7 @@
     }
 
     .four-group-img-xxl {
-        bottom: 1%;
+        bottom: 2%;
         left: -32px;
     }
 }
