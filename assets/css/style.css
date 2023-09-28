@@ -565,6 +565,9 @@
     .max_width_150 {
         max-width: 150px;
     }
+    .mw_140{
+        max-width: 140px !important;
+    }
 
 }
 
@@ -646,6 +649,9 @@
 
     .h_497 {
         height: 497px !important;
+    }
+    .mw_200{
+        max-width: 200px !important;
     }
 }
 
