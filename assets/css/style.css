@@ -213,10 +213,13 @@
     background: #4CBAFF;
     cursor: pointer !important;
     translate: 300ms linear;
-    z-index: 2;
 }
 .join_button:hover {
-    box-shadow: 2px 4px 0px rgba(255, 255, 255, 0.61) !important;
+   border: 2px solid #4CBAFF;
+padding: 16px 40px;
+   background-color: transparent;
+   color: #4CBAFF !important;
+    cursor: pointer !important;
 }
 
 .max-width_239 {
