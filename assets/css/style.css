@@ -472,6 +472,9 @@
 .min_vh_85{
     min-height: 85vh;
 }
+.bottom_25{
+    bottom: -25%;
+}
 
 @keyframes swing {
     0% {
@@ -548,6 +551,9 @@
         bottom: -6.5%;
         width: 25%;
     }
+        .max_width_150 {
+            max-width: 150px;
+        }
 
 }
 
@@ -556,8 +562,8 @@
         max-width: 758px !important;
     }
 
-    .max-width_525 {
-        max-width: 525px;
+    .max-width_603 {
+        max-width:603px;
     }
 
     .grass_img-lg {
